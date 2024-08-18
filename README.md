@@ -1,9 +1,10 @@
 ![IMG_5724 2](https://github.com/user-attachments/assets/f0db0585-7e73-410e-bbc1-c479eab1322f)
-- 👋🏼 Hi, my name is Ma Raquel Soriano, most people who are closest to me call me Raqs, while professionally, I go by Raquel.🤓
+- ✨ Hi, my name is Ma Raquel Soriano, most people who are closest to me call me Raqs, while professionally, I go by Raquel.🤓
 - 👩🏻‍⚕️ I'm a healthcare professional with 16+ years of experience.
-- 📚 I’m currently a graduate student at Stony Brook University pursuing a Master of Science in Applied Health Informatics.
-- 👩🏻‍💻 I’m excited to collaborate with like-minded individuals. Shoot me a message!😉
-- ⚡ Fun fact: I'm an indoor plant enthusiast, I can eat a pack of Kinder Bueno chocolate in one sitting, I love karaoke, and lately, I've been enjoying K-drama series. When I feel active, I enjoy spending time in local parks.🌿🍫🎤📺🌳
+- 📚 I’m currently a graduate student at Stony Brook University pursuing a Master of Science in Applied Health Informatics. I aspire to be good in this field.
+- 🎯 I feel inspired when I'm part of a team or organization that fosters empowerment, encourages growth, and inspires me to dream big and achieve success while still embracing my fun-loving side.
+- 👩🏻‍💻 I’m excited to collaborate with like-minded individuals who can share their knowledge, skills, and some fun personality with me. Although I might appear aloof at first, I’m actually quite nice and fun to be around once you get to know me. Shoot me a message!😉
+- ⚡ Fun fact: I'm an indoor plant enthusiast, I can eat a bag of Kinder Bueno chocolate in one sitting, I love karaoke, and lately, I've been enjoying K-drama series. When I feel active, I enjoy spending time in local parks.🌿🍫🎤📺🌳
 - ❣️ Pronouns: she/her
 
 <!---
