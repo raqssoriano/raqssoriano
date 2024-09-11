@@ -9,23 +9,28 @@
 </a>
 </p> 
 
+## 👩🏻‍💻 _**here are my skills so far as a beginner**_
+![](https://komarev.com/ghpvc/?username=raqssoriano&color=orange)
 
-
-## 💻 _**here are my skills so far**_
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=black"/>&nbsp;
 ![GitHub](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-414141?style=flat-square&logo=github)&nbsp;
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp;
+
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>&nbsp;
 ![word](https://img.shields.io/badge/-Word-2B579A?style=flat-square&logo=MicrosoftWord&logoColor=white)&nbsp;
 ![excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=MicrosoftExcel&logoColor=white)&nbsp;
 
 
-![](https://komarev.com/ghpvc/?username=raqssoriano&color=orange)
 
 
 
 
-## 🤍🤍🤍
+
+
+
+
+
+## 🌎 _let's explore how we can make a difference together!_
 <img src="https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif?cid=ecf05e47t1pwylkv0ljsg62g5kc2athfzwwrsad6r5jmin6c&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100" />       <img src="https://media.giphy.com/media/sMwZ4xmNwSy2l5oD5u/giphy.gif?cid=ecf05e47u5fjifp23bm4jvv5n66fpw25rhqe911535352ui8&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100" />       <img src="https://media.giphy.com/media/sLsAjROwQiFBTUpajw/giphy.gif?cid=ecf05e47uq2f7u08f2may3pxguqwso7mmtg5jge8z0hwvqiq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100" height="100" />       
 
 
